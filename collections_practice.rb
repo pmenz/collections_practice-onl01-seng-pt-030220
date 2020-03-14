@@ -42,7 +42,14 @@ end
 
 def sum_array(array)
   sum = 0 
-  array.each { |element| sum= sum+element}
-  
+  array.each { |element| sum= sum+element} 
   sum
+end
+
+def add_s(array)
+  array.collect_with_index do |element, index|
+    if index==1
+      next
+    element << "s"
+end
 end
