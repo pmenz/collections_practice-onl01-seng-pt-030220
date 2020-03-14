@@ -7,3 +7,5 @@ end
 
 
 sort_array_desc
+
+sort_array_char_count
