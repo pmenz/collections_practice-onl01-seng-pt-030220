@@ -52,6 +52,6 @@ def add_s(array)
     if index==1
       new_array << element
     end
-   new_array << element << "s"
+   new_array << (element << "s")
 end
 end
