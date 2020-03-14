@@ -39,3 +39,11 @@ def find_a(array)
     element.start_with?("a")
 end
 end
+
+def sum_array(array)
+  sum = 0 
+  array.each do |element|
+    sum= sum+element
+  end
+  sum
+end
