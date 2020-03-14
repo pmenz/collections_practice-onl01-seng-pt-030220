@@ -4,3 +4,6 @@ array=[]
 array.sort do |a,b|
   a<=>b end
 end
+
+
+sort_array_desc
