@@ -6,18 +6,3 @@ array.sort do |a,b|
 end
 
 
-sort_array_desc
-
-sort_array_char_count
-
-swap_elements
-
-reverse_array
-
-kesha_maker
-
-find_a
-
-sum_array
-
-add_s
