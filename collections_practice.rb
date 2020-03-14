@@ -17,3 +17,5 @@ reverse_array
 kesha_maker
 
 find_a
+
+sum_array
