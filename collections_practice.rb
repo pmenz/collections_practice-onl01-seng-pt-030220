@@ -19,3 +19,5 @@ kesha_maker
 find_a
 
 sum_array
+
+add_s
